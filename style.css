@@ -1,0 +1,41 @@
+.section{
+    background-color: black;
+    position: sticky;
+    top: 0;
+}
+.hp{
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+}
+.d-block{
+    height: 450px;
+}
+.container2{
+    display: flex;
+}
+.col12 img{
+    height: 200px;
+    width: 200px;
+    align-items: center;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+.img1{
+    margin-left: 500px;
+}
+/* .carousel{
+    display: flex;
+} */
+/* h3,h1{
+    text-align: center;
+}
+p{
+    margin-left: 20px;
+}
+button{
+    margin: 30px;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+} */
